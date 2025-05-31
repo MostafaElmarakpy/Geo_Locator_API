@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocatorAPI", "GeoLocatorAPI.csproj", "{5F9179FE-CA0B-4989-BB50-FEA8373E2E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocator.Domain", "..\GeoLocator.Domain\GeoLocator.Domain.csproj", "{3509A528-9877-4C44-899E-BC66D14F376A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocator.Application", "..\GeoLocator.Application\GeoLocator.Application.csproj", "{40CD62BE-EC26-4456-916A-D9FB4CC9FAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocator.Infastructure", "..\GeoLocator.Infastructure\GeoLocator.Infastructure.csproj", "{7A21AE49-FD51-4126-81B6-C94956CB0BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9179FE-CA0B-4989-BB50-FEA8373E2E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9179FE-CA0B-4989-BB50-FEA8373E2E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9179FE-CA0B-4989-BB50-FEA8373E2E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9179FE-CA0B-4989-BB50-FEA8373E2E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3509A528-9877-4C44-899E-BC66D14F376A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3509A528-9877-4C44-899E-BC66D14F376A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3509A528-9877-4C44-899E-BC66D14F376A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3509A528-9877-4C44-899E-BC66D14F376A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CD62BE-EC26-4456-916A-D9FB4CC9FAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CD62BE-EC26-4456-916A-D9FB4CC9FAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CD62BE-EC26-4456-916A-D9FB4CC9FAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CD62BE-EC26-4456-916A-D9FB4CC9FAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A21AE49-FD51-4126-81B6-C94956CB0BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A21AE49-FD51-4126-81B6-C94956CB0BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A21AE49-FD51-4126-81B6-C94956CB0BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A21AE49-FD51-4126-81B6-C94956CB0BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B54BB8-9F0F-4206-B486-65C0A3F01B74}
+	EndGlobalSection
+EndGlobal

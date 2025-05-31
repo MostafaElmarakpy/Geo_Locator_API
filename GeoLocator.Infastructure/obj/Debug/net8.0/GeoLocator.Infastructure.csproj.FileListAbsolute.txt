@@ -1,0 +1,17 @@
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Infastructure.deps.json
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Infastructure.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Infastructure.pdb
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Application.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Domain.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Application.pdb
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\bin\Debug\net8.0\GeoLocator.Domain.pdb
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.csproj.AssemblyReference.cache
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.AssemblyInfoInputs.cache
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.AssemblyInfo.cs
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.csproj.CoreCompileInputs.cache
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocat.3B531830.Up2Date
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\refint\GeoLocator.Infastructure.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\GeoLocator.Infastructure.pdb
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Infastructure\obj\Debug\net8.0\ref\GeoLocator.Infastructure.dll

@@ -1,0 +1,11 @@
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\bin\Debug\net8.0\GeoLocator.Domain.deps.json
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\bin\Debug\net8.0\GeoLocator.Domain.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\bin\Debug\net8.0\GeoLocator.Domain.pdb
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\GeoLocator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\GeoLocator.Domain.AssemblyInfoInputs.cache
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\GeoLocator.Domain.AssemblyInfo.cs
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\GeoLocator.Domain.csproj.CoreCompileInputs.cache
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\GeoLocator.Domain.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\refint\GeoLocator.Domain.dll
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\GeoLocator.Domain.pdb
+D:\Software\BackEnd\ASP.NET API\GeoLocator.Domain\obj\Debug\net8.0\ref\GeoLocator.Domain.dll
